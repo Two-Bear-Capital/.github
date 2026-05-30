@@ -9,10 +9,7 @@
 
 <p align="center">
   <a href="https://www.twobearcapital.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://brand-kit.two-bear-capital.workers.dev/svg/two-bear-capital-horizontal-white.svg">
-      <img src="https://brand-kit.two-bear-capital.workers.dev/svg/two-bear-capital-horizontal-bw.svg" alt="Two Bear Capital" width="460">
-    </picture>
+    <img src="https://brand-kit.two-bear-capital.workers.dev/svg/two-bear-capital-horizontal.svg" alt="Two Bear Capital" width="460">
   </a>
 </p>
 
@@ -83,10 +80,7 @@ sessions. Apache 2.0 licensed.
 
 <p align="center">
   <a href="https://www.twobearcapital.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://brand-kit.two-bear-capital.workers.dev/svg/two-bear-capital-horizontal-white.svg">
-      <img src="https://brand-kit.two-bear-capital.workers.dev/svg/two-bear-capital-horizontal-bw.svg" alt="Two Bear Capital" width="280">
-    </picture>
+    <img src="https://brand-kit.two-bear-capital.workers.dev/svg/two-bear-capital-horizontal.svg" alt="Two Bear Capital" width="280">
   </a>
   <br>
   <sub><a href="https://www.twobearcapital.com">twobearcapital.com</a></sub>
