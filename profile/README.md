@@ -76,12 +76,19 @@ introspection on large projects), broad authentication support (ADC, service
 account, OAuth, and workforce/workload identity federation), and BigQuery
 sessions. Apache 2.0 licensed.
 
+[![Java 21+](https://img.shields.io/badge/Java-21+-00b451?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/Two-Bear-Capital/tbc-bq-jdbc)
+[![JDBC 4.3](https://img.shields.io/badge/JDBC-4.3-7e57c5?style=flat-square)](https://github.com/Two-Bear-Capital/tbc-bq-jdbc)
+[![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-0097ce?style=flat-square&logo=googlebigquery&logoColor=white)](https://github.com/Two-Bear-Capital/tbc-bq-jdbc)
+[![License](https://img.shields.io/github/license/Two-Bear-Capital/tbc-bq-jdbc?style=flat-square&color=f18a00)](https://github.com/Two-Bear-Capital/tbc-bq-jdbc/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/Two-Bear-Capital/tbc-bq-jdbc?style=flat-square&color=100f0d&logo=github&logoColor=white)](https://github.com/Two-Bear-Capital/tbc-bq-jdbc/stargazers)
+
 ---
 
 <p align="center">
   <a href="https://www.twobearcapital.com">
     <img src="https://brand-kit.two-bear-capital.workers.dev/svg/two-bear-capital-horizontal.svg" alt="Two Bear Capital" width="280">
   </a>
-  <br>
-  <sub><a href="https://www.twobearcapital.com">twobearcapital.com</a></sub>
+  <br><br>
+  <a href="https://www.twobearcapital.com"><img src="https://img.shields.io/badge/Website-twobearcapital.com-00b451?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/company/twobearcapital"><img src="https://img.shields.io/badge/LinkedIn-Two_Bear_Capital-0097ce?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
