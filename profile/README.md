@@ -62,11 +62,19 @@ A selection of the companies we partner with — see the
 
 🏔️ **Whitefish, Montana** *(home base)* &nbsp;·&nbsp; Menlo Park &nbsp;·&nbsp; San Diego &nbsp;·&nbsp; Boston &nbsp;·&nbsp; New York
 
-## On GitHub
+## Open Source
 
-This organization hosts our public-facing engineering and brand work, including
-our [**brand kit**](https://github.com/Two-Bear-Capital/brand-kit) — logos,
-color palette, and usage guidelines.
+We're heavy [BigQuery](https://cloud.google.com/bigquery) users, and we kept
+running into the limits of existing JDBC drivers in our day-to-day tooling —
+slow metadata, unreliable schema introspection in database IDEs, and dated Java
+support. So we built our own.
+
+**[tbc-bq-jdbc](https://github.com/Two-Bear-Capital/tbc-bq-jdbc)** — a modern
+JDBC 4.3 driver for Google BigQuery, built from scratch for Java 21+ and
+optimized for database IDEs. Fast, comprehensive metadata (≈30× faster schema
+introspection on large projects), broad authentication support (ADC, service
+account, OAuth, and workforce/workload identity federation), and BigQuery
+sessions. Apache 2.0 licensed.
 
 ---
 
