@@ -9,7 +9,10 @@
 
 <p align="center">
   <a href="https://www.twobearcapital.com">
-    <img src="https://brand-kit.two-bear-capital.workers.dev/og/og-dark-logo-tagline.png" alt="Two Bear Capital — Building enduring companies. Together." width="100%">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://brand-kit.two-bear-capital.workers.dev/svg/two-bear-capital-horizontal-white.svg">
+      <img src="https://brand-kit.two-bear-capital.workers.dev/svg/two-bear-capital-horizontal-bw.svg" alt="Two Bear Capital" width="460">
+    </picture>
   </a>
 </p>
 
