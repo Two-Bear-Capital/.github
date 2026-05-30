@@ -80,7 +80,10 @@ sessions. Apache 2.0 licensed.
 
 <p align="center">
   <a href="https://www.twobearcapital.com">
-    <img src="https://brand-kit.two-bear-capital.workers.dev/svg/bear-green.svg" alt="Two Bear Capital" width="44">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://brand-kit.two-bear-capital.workers.dev/svg/two-bear-capital-horizontal-white.svg">
+      <img src="https://brand-kit.two-bear-capital.workers.dev/svg/two-bear-capital-horizontal-bw.svg" alt="Two Bear Capital" width="280">
+    </picture>
   </a>
   <br>
   <sub><a href="https://www.twobearcapital.com">twobearcapital.com</a></sub>
