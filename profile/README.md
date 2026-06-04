@@ -3,13 +3,13 @@
   https://github.com/Two-Bear-Capital
 
   Images are served from the public brand-kit CDN
-  (https://brand-kit.two-bear-capital.workers.dev), maintained in the
+  (https://brand.twobearcapital.com), maintained in the
   Two-Bear-Capital/brand-kit repository.
 -->
 
 <p align="center">
   <a href="https://www.twobearcapital.com">
-    <img src="https://brand-kit.two-bear-capital.workers.dev/svg/two-bear-capital-horizontal.svg" alt="Two Bear Capital" width="460">
+    <img src="https://brand.twobearcapital.com/svg/two-bear-capital-horizontal.svg" alt="Two Bear Capital" width="460">
   </a>
 </p>
 
